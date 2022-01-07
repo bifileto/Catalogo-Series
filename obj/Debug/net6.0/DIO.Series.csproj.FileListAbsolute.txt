@@ -1,0 +1,8 @@
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/Users/jessicalima/Documents/Bianca/backend/projetos/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
